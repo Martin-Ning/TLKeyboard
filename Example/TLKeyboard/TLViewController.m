@@ -135,7 +135,7 @@
     [self.chatBar mas_makeConstraints:^(MASConstraintMaker *make) {
         make.left.and.right.mas_equalTo(self.view);
         make.bottom.mas_equalTo(-INDICATOR_HEIGHT);
-        make.height.mas_equalTo(TABBAR_HEIGHT);
+        make.height.mas_greaterThanOrEqualTo(TABBAR_HEIGHT);
     }];
     
     [self.serviceBar mas_makeConstraints:^(MASConstraintMaker *make) {

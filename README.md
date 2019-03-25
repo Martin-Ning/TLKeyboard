@@ -7,7 +7,7 @@
 
 
 ##  Note
-此Demo是整合TLChat的代码修改完成的。（内附了cocoaPods的spec模板，项目分层只是为了pods库美观。没有细分子库的依赖关系，单独安装子库可能会有问题）
+此Demo是整合[TLChat](https://github.com/tbl00c/TLChat)的代码修改完成的。（内附了cocoaPods的spec模板，项目分层只是为了pods库美观。没有细分子库的依赖关系，单独安装子库可能会有问题）
 
 
 ## Preview 
